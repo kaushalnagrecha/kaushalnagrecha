@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Python, AWS, Docker, Kubernetes, Terraform.**
 
-- 📫 How to reach me **nagrecha.k@northeastern.edu**
+- 📫 How to reach me **[Email](mailto://nagrecha.k@northeastern.edu)**
 
 <!-- - 📄 Know about my experiences [sdfsdf](sdfsdf)
 
