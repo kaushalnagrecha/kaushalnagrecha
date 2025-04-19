@@ -17,16 +17,30 @@
 
 - 💬 Ask me about **Java, Python, AWS, Docker, Kubernetes, Terraform.**
 
-- 📫 How to reach me **[Email](mailto://nagrecha.k@northeastern.edu)**
-
 <!-- - 📄 Know about my experiences [sdfsdf](sdfsdf)
 
 - ⚡ Fun fact **sfgd** -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/28404065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28404065" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaushalgnagrecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaushalgnagrecha" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:nagrecha.k@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://stackoverflow.com/users/28404065">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://www.kaggle.com/kaushalgnagrecha">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+<!--   </a>
+  <a href="https://github.com/kaushalnagrecha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a> -->
+  <a href="https://www.linkedin.com/in/kaushal-nagrecha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discordapp.com/users/batman.who_laughs">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
