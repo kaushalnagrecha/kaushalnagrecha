@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Nagrecha</h1>
-<h4 align="center">Results-oriented Software Developer with 8+ years of experience in Full-Stack Software Development, Data Analysis, and Infrastructure Orchestration. With proven ability to design, develop, and implement scalable solutions in different Agile environments, with a strong focus on problem-solving, collaboration, and leadership. Proficient in leveraging AI, Data Science, and Cloud technologies to drive innovation.</h4>
+<h4 align="center">Graduate student at Northeastern University majoring in Analytics with a focus on statistical modeling and optimization techniques. Leveraging 8+ years of experience in software development and data engineering to solve complex business challenges through mathematical approaches. Demonstrated expertise in building ETL pipelines, predictive algorithms, and distributed systems using Python, SQL, and Tableau. Passionate about transforming data into actionable insights that drive business optimization and strategic decision-making in innovative environments.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaushalnagrecha&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalnagrecha" /> </p>
 
