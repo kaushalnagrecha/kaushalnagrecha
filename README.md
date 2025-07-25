@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on [dfges](dfgs) -->
 
-- 🌱 Aspiring **Data Science** | **Decision Science** | **ML/AI Engineer** | **Data Analyst**
+- 🌱 Aspiring **Data Scientist** | **Decision Scientist** | **ML/AI Engineer** | **Data Analyst**
 
 <!-- - 👯 I’m looking to collaborate on [sdfsdsdfsdsdfhdf](sdfhsd)
 
